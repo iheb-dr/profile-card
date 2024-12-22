@@ -1,10 +1,10 @@
 import React from 'react';
-import ProfileHeader from './components/ProfileHeader';
+import ProfileDescription from './components/ProfileDescription';
 
 const App = () => {
     return (
         <div>
-            <ProfileHeader />
+            <ProfileDescription />
         </div>
     );
 };
